@@ -30,7 +30,7 @@ The dataset provides CO₂-equivalent (CO₂e) emission factors per dollar for v
 
 ---
 
-## 🤖 Modeling (Coming Soon)
+## 🤖 Modeling
 
 - Build regression models for emission prediction  
 - Analyze feature importance  
